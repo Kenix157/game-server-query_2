@@ -36,7 +36,7 @@
     "gbxremote": "~0.1.4",
     "iconv-lite": "~0.4.6",
     "long": "~2.2.3",
-    "minimist": "~1.1.0",
+    "minimist": "~1.2.5",
     "moment": "~2.9.0",
     "request": "~2.51.0",
     "varint": "~4.0.0"
